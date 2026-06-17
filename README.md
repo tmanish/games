@@ -4,7 +4,7 @@ A little arcade that runs right in your browser. No downloads, no sign-ups, no a
 
 ## Start playing
 
-Open the arcade menu (`index.html`), then pick a cabinet:
+<a href="https://tmanish.github.io/games/">Open the arcade menu</a>, then pick a cabinet:
 
 - `↑` / `↓` — move between games
 - `Enter` — start the highlighted game
